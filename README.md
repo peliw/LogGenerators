@@ -2,8 +2,6 @@
 
 **Generate Realistic Logs for Testing, Labs, and Simulations**
 
-[![GitHub repo](https://img.shields.io/github/stars/peliw/LogGenerators?style=social)](https://github.com/peliw/LogGenerators)
-
 ---
 
 ## 🔍 Overview
